@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Julia (@JuliailuL)
 - 👀 I’m interested in ... writing well designed code
-- 🌱 I’m currently learning ... C, C#, Python and GitHub 
-- ⚡ 'Fun' fact: ... I like gardening, wine and to draw. 
+- 🌱 I’m currently learning ... C#, Python, GitHub 
+- ⚡ Gardening. Wine. Art. Yoga. 
 
 <!---
 JuliailuL/JuliailuL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
